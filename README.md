@@ -1,5 +1,5 @@
 # Introduction
-This is the homework of the course AI(Artificial Intelligence):  
+The code of the course AI:  
  
 # Prerequisites
 Python 3.6  
